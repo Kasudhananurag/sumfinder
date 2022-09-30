@@ -1,0 +1,32 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "A",
+    "simple",
+    "calcualtor",
+    "to",
+    "add",
+    "two",
+    "numbers",
+    "also",
+    "my",
+    "first",
+    "web",
+    "app",
+    "using",
+    "node",
+    "js"
+  ],
+  "author": "Anurag Kasudhan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
